@@ -1,3 +1,4 @@
+<<<<<<< 0076a25b1f04963ac385c86d296f09a02052c433
 *.class
 
 # Mobile Tools for Java (J2ME)
@@ -10,6 +11,8 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+=======
+>>>>>>> first working commit
 #################
 ## Eclipse
 #################
